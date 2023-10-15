@@ -1,0 +1,1633 @@
+@media screen and (min-width: 300px) and (max-width: 600px) {
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  .header {
+    top: 25%;
+    right: 10%;
+    height: 50%;
+    width: 90px;
+  }
+  nav > img {
+    top: 45%;
+    left: 6%;
+  }
+  .div1 > i {
+    left: 40%;
+    margin-left: 8px;
+  }
+  .div1 > .brand {
+    left: 51%;
+  }
+  .div1 > .brand2 {
+    left: 66%;
+  }
+  .div1 > .brand3 {
+    left: 81%;
+  }
+  .div1 > .brand4 {
+    left: 96%;
+  }
+  .with {
+    height: 35px;
+    top: 52%;
+    width: 35%;
+    left: 63%;
+    font-size: 10px;
+  }
+
+  .back {
+    height: 800px;
+  }
+  .back > img {
+    height: 250px;
+  }
+
+  .back > h1 {
+    width: 100%;
+    top: 25%;
+    left: 0%;
+    animation: h1 7s linear infinite alternate forwards;
+  }
+  @keyframes h1 {
+    0% {
+      opacity: 0;
+      top: 0%;
+      left: 0%;
+    }
+    20% {
+      opacity: 0;
+      left: 0%;
+    }
+    30% {
+      top: 25%;
+      left: 0%;
+    }
+    50% {
+      top: 25%;
+      left: 0%;
+    }
+    60% {
+      top: 25%;
+      left: 0%;
+    }
+    70% {
+      top: 25%;
+      left: 0%;
+      opacity: 1;
+    }
+    80% {
+      left: 0%;
+      top: 25%;
+    }
+    90% {
+      left: 0%;
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 0;
+      left: 15%;
+      top: 0%;
+    }
+  }
+
+  .back > .butt2 {
+    height: 70px;
+    top: 40%;
+    left: 0%;
+    animation: butt2 7s linear infinite alternate forwards;
+  }
+
+  @keyframes butt2 {
+    0% {
+      opacity: 0;
+      top: 80%;
+    }
+    20% {
+      opacity: 0;
+    }
+    30% {
+      top: 40%;
+    }
+    50% {
+      top: 40%;
+    }
+    60% {
+      top: 40%;
+    }
+    70% {
+      top: 40%;
+      opacity: 1;
+    }
+    80% {
+      top: 40%;
+    }
+    90% {
+      opacity: 0;
+      top: 40%;
+    }
+    100% {
+      opacity: 0;
+      top: 80%;
+    }
+  }
+
+  .discover {
+    top: 35%;
+    left: 40%;
+    width: 20vw;
+  }
+  .now {
+    top: 130%;
+    left: 40%;
+  }
+  .gray {
+    display: none;
+  }
+
+  .comment > h2 {
+    top: 10%;
+    left: 40%;
+    font-size: 19px;
+  }
+  .comment > h1 {
+    top: 40%;
+  }
+  .black > h1 {
+    top: 20%;
+    font-size: 30px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+  }
+  .black > img {
+    top: 52%;
+    left: 42%;
+  }
+  .pics > img:nth-child(1) {
+    width: 140px;
+    left: 0%;
+  }
+  .pics > img:nth-child(2) {
+    display: none;
+  }
+  .pics > img:nth-child(3) {
+    display: none;
+  }
+  .pics > img:nth-child(4) {
+    display: none;
+  }
+  .pics > img:nth-child(5) {
+    top: 0%;
+    left: 37% !important;
+    width: 140px;
+  }
+  .pics > img:nth-child(6) {
+    top: 0%;
+    left: 70% !important;
+    width: 140px;
+  }
+  .bars > .line2 {
+    width: 80px;
+    height: 80px;
+  }
+  .bars > .line3 {
+    left: 80%;
+    top: 90%;
+  }
+  .bars {
+    height: 800px;
+  }
+  .bars > div {
+    top: 10%;
+    height: 30%;
+    width: 100%;
+  }
+  .aboutus {
+    height: 300px;
+    width: 100%;
+  }
+  .aboutus > h3 {
+    top: 38%;
+    font-size: 15px;
+    left: 40%;
+  }
+  .aboutus > h1 {
+    top: 50%;
+    font-size: 22px;
+    left: 0%;
+  }
+  .pico > .thm {
+    display: none;
+  }
+  .years {
+    height: 650px;
+  }
+  .years > div {
+    margin-left: 0px;
+    width: 100%;
+  }
+  .pico > .pici {
+    width: 40%;
+  }
+  .pico > h1 {
+    right: -130%;
+    font-size: 30px;
+    top: 35%;
+  }
+  .pico .pico1 {
+    top: 5%;
+    left: 2%;
+    margin-bottom: 5px;
+    height: 35%;
+    width: 55%;
+  }
+
+  .years > .besti > h1 {
+    display: none;
+  }
+  .years > .besti > h4 {
+    display: none;
+  }
+  .years > .besti > p {
+    display: none;
+  }
+  .pico > .iconi {
+    height: 18%;
+    width: 70%;
+  }
+  .besti > .user1 {
+    left: 10%;
+  }
+  .besti > .user2 {
+    left: 25%;
+  }
+  .besti > .user3 {
+    left: 35%;
+  }
+  .besti > .user4 {
+    left: 47%;
+  }
+  .besti > .user5 {
+    left: 57%;
+  }
+  .besti > h2 {
+    top: 90%;
+    left: 10%;
+  }
+  .besti > h3 {
+    top: 95%;
+    left: 15%;
+  }
+  .portfolio {
+    flex-wrap: wrap;
+    height: 1400px;
+    width: 100%;
+  }
+  .portfolio > .future {
+    width: 100%;
+  }
+  .future > h2 {
+    left: 30%;
+    font-size: 16px;
+  }
+  .future > h1 {
+    top: 8%;
+    left: 0%;
+    text-align: center;
+    font-size: 23px;
+  }
+  .future > .dude1 {
+    width: 100%;
+    left: 0%;
+  }
+  .future > .dude2 {
+    height: 23%;
+    width: 47%;
+    top: 20%;
+  }
+  .future > .dude3 {
+    width: 47%;
+    left: 53% !important;
+    top: -3%;
+  }
+  .future .view {
+    left: 25% !important;
+    height: 8vh !important;
+    width: 150px !important;
+  }
+  .view >.all{
+    left:40%;
+  }
+
+  .hy > h1 {
+    top: 25% !important;
+    left: 0% !important;
+    width:100%;
+    text-align: center;
+    font-size: 40px !important;
+  }
+  .hy > p {
+    top: 43% !important;
+    line-height: 1.6 !important;
+    width:100%;
+    text-align: center;
+    font-size: 23px !important;
+    left: 0% !important;
+  }
+  .hy > .shape {
+    display: none;
+  }
+  .readm{
+    left:0 !important;
+    width: 150px !important;
+  }
+  .hy > i {
+    left: 40%;
+    padding: 50px;
+    width: 50px;
+  }
+  .member {
+    height: 300vh;
+  }
+  .cap {
+    display: none;
+  }
+  .member > div {
+    height: fit-content;
+    width: 100%;
+  }
+  .team1 > h4 {
+    margin-top: -25px;
+    font-size: 16px;
+  }
+  .team1 > h1 {
+    top: 28%;
+    font-size: 21px;
+    text-align: center;
+  }
+  .team1 > .team2 {
+    top: 73%;
+    left: 20%;
+  }
+  .team2 {
+    display: none;
+  }
+  .alex {
+    height: 14% !important;
+  }
+  .alex > h1 {
+    top: 85%;
+    font-size: 22px;
+  }
+  .alex > h3 {
+    top: 95%;
+    font-size: 18px;
+  }
+  .alex .alen {
+    height: 80%;
+  }
+  nav > .first {
+    display: none;
+  }
+  .back > h1 {
+    top: 40%;
+    left: 20%;    text-align: center;
+    font-size: 30px;
+    animation: h1 7s linear infinite alternate forwards;
+  }
+  .hy > h1 {
+    top: 15%;
+    left: 10%;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 25px;
+  }
+  .hy > p {
+    top: 45%;
+    left: 10%;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 12px;
+
+  }
+  .hy > .shape {
+    top: 55%;
+    left: 0%;
+    height: 10px;
+    animation: shape 2s linear infinite alternate;
+  }
+  header > img {
+    left: 10%;
+    height: 60px;
+    width: 80px;
+  }
+  .hy > .shape {
+    top: 55%;
+    left: 9%;
+    height: 200px;
+    animation: shape 2s linear infinite alternate;
+  }
+  @keyframes shape {
+    0% {
+      left: 8%;
+      height: 200px;
+    }
+    100% {
+      transform: rotate(5deg);
+      left: 11%;
+      height: 220px;
+    }
+  }
+  .years > .besti > h1 {
+    top: 12%;  
+    font-size: 30px;
+    line-height: 1.2;
+  }
+  .check > h1 {
+    font-size: 20px; 
+    top: 20%;
+    left: 2%;
+  }
+  .check > .consulting {
+    top: 94%;
+    display: none;
+  }
+  .enim > .view {
+    height: 50px;
+    width: 100px;
+    top: 90%;
+  }
+  .enim > .no {
+    top: 81%;
+    left: 65%;
+    height: 50px;
+    width: 197px;
+  }
+  .saying > h1 {
+    top: 24%;
+    left: 22%;
+    font-size: 50px;
+  }
+  .ready > .view {
+    top: 40%;
+    height: 60px;
+    width: 100px;
+    left: 50%;
+  }
+  .table > .boxx2 {
+    top: 62.5%;
+    left: 50.2%;
+  }
+  .getin > .cat {
+    top: 40%;
+    left: 25%;
+    font-size: 16px;
+  }
+  .getin > .pic1 {
+    top: 22%;
+    left: 58%;
+  }
+  .getin > .pic2 {
+    top: 52%;
+    left: 74%;
+  }
+  .getin > .pic3 {
+    top: 52%;
+    left: 70%;
+  }
+
+  .table > .form {
+    left: 10%;
+    animation: form 4s linear infinite alternate;
+  }
+  @keyframes form {
+    0% {
+      left: 14%;
+    }
+    100% {
+      left: 20%;
+    }
+  }
+  .pics > img:nth-child(1) {
+    left: 5%;
+  }
+  .pics > img:nth-child(2) {
+    left: 10%;
+  }
+  .pics > img:nth-child(3) {
+    left: 35%;
+  }
+  .pics > img:nth-child(4) {
+    left: 30%;
+  }
+  .pics > img:nth-child(5) {
+    left: 45%;
+  }
+  .pics > img:nth-child(6) {
+    left: 40%;
+  }
+  .future > .view {
+    top: 93%;
+    left: 40%;
+    height: 60px;
+    width: 200px;
+  }
+  .getin > .privacy {
+    top: 79%;
+    left: 46%;
+    font-size: 12px;
+  }
+
+
+
+  
+.can{
+flex-direction: column;
+}
+.can > div {
+  width: 100% !important;
+}
+.check > h1 {
+  font-size: 28px;
+  top: 15%;
+  text-align: center;
+  width: 90%;
+  left: 0% ;
+}
+.check > p {
+  font-size: 19px;
+  text-align: center;
+  width: 90%;
+  line-height: 1.3;
+  top: 50%;
+  left: 0%;
+}
+.check > .yelow {
+  top: 95%;
+  left: 0%;
+  height: 12px;
+  width: 40%;
+}
+.check > .green {
+  left: 50%;
+  top: 92%;
+}
+
+.latest {
+  height: 300px;
+}
+.latest > p {
+  top: 15%;
+  font-size: 16px;
+  left: 10%;
+}
+
+.latest > h1 {
+  top: 30%;
+  font-size: 33px;
+  left: 10%;
+}
+.fusce {
+  height: 1500px;
+flex-direction: column;
+}
+.fusce > div {
+  width: 100%;
+  margin-left: 30px;
+}
+.orange2 {
+  height: 500px;
+flex-direction: column;
+}
+.orange2 > div {
+  top: 0%;
+  left:35%;
+  transition: 1s;
+  height: 50%;
+  width: 100%;
+}
+
+.saying{
+  height: 700px;
+}
+.saying > h1 {
+  top: 5%;
+  left: 5%;
+  font-size: 40px;
+}
+.saying > img {
+  top: 18%;
+  left: 15%;
+}
+.saying > h4 {
+  top: 22%;
+  font-size: 21px;
+  left: 20%;
+  line-height: 1.4;
+}
+.saying > .testim {
+  top: 76%;
+  left: 20%;
+}
+.saying > h2 {
+  top: 78%;
+  left: 43%;
+}
+.saying > h5 {
+  top: 82%;
+  left: 48%;
+}
+.saying > .white {
+  top: 93%;
+  left: 45%;
+}
+.saying > .white2 {
+  left: 50%;
+}
+.saying > .white3 {
+  left: 55%;
+}
+.map > .table {
+  left: 5%;
+  z-index: 1;
+  width: 90%;
+}
+.table > .form {
+  left: 0%;
+  animation: form 4s linear infinite alternate;
+}
+@keyframes form {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: 35%;
+  }
+}
+
+.table > h1 {
+  top: 10%;
+  left: 10%;
+  font-size:35px;
+}
+.table > textarea {
+  height: 150px;
+}
+.table > .boxx2 {
+  position: absolute;
+  left: 52.2%;
+}
+.table > .view {
+  top: 78%;
+  left: 20%;
+}
+.getin {
+  height: 1000px
+}
+.getin > .ready {
+  height: 25%
+}
+.ready > h6 {
+  top: 15%;
+  font-size: 17px;
+}
+.ready > h1 {
+  top: 30%;
+  text-align: center;
+  font-size: 30px;
+}
+.ready > .view {
+  top: 70%;
+  width: 150px;
+  left: 30% !important;
+}
+.getin > .mobile {
+  top: 28%;
+}
+.getin > p {
+  font-size: 18px;
+  top: 35%;
+text-align: center;
+}
+
+.getin > h5 {
+  font-size: 17px;
+ text-align: center;
+  top: 92%;
+  left: 0%;
+}
+.getin > .shape4 {
+  position: absolute;
+  top: 73%;
+  left: 0%;
+}
+.getin > .cat {
+  top: 46%;
+  left: 0%;
+  font-size: 14px;
+}
+.cat > li {
+  margin-left: 20px;
+  float: left;
+}
+.getin > .homee {
+  left: 10%;
+}
+.homee > li {
+  margin-top: 20px;
+}
+.getin > .bg {
+  left: 40%;
+}
+.getin > .pic1 {
+  top: 25%;
+  left:70%;
+}
+
+.getin>.pic2{
+  top:58%;
+left:70%;
+}
+.getin>.pic3{
+  top:66%;
+left:70%;
+}
+.getin>.privacy{
+  top:83%;
+  left:0%;
+  font-size: 14px;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 601px) and (max-width: 900px) {
+  * {
+    padding: 0;
+    margin: 0;
+  }
+  .header {
+    top: 25%;
+    right: 10%;
+    height: 50%;
+    width: 90px;
+  }
+  nav > img {
+    top: 45%;
+    left: 6%;
+  }
+  .div1 > i {
+    left: 40%;
+    margin-left: 8px;
+  }
+  .div1 > .brand {
+    left: 51%;
+  }
+  .div1 > .brand2 {
+    left: 66%;
+  }
+  .div1 > .brand3 {
+    left: 81%;
+  }
+  .div1 > .brand4 {
+    left: 96%;
+  }
+  .with {
+    height: 35px;
+    top: 52%;
+    width: 35%;
+    left: 63%;
+    font-size: 10px;
+  }
+
+  .back {
+    height: 800px;
+  }
+  .back > img {
+    height: 250px;
+  }
+
+  .back > h1 {
+    width: 100%;
+    top: 25%;
+    left: 0%;
+    animation: h1 7s linear infinite alternate forwards;
+  }
+  @keyframes h1 {
+    0% {
+      opacity: 0;
+      top: 0%;
+      left: 0%;
+    }
+    20% {
+      opacity: 0;
+      left: 0%;
+    }
+    30% {
+      top: 25%;
+      left: 0%;
+    }
+    50% {
+      top: 25%;
+      left: 0%;
+    }
+    60% {
+      top: 25%;
+      left: 0%;
+    }
+    70% {
+      top: 25%;
+      left: 0%;
+      opacity: 1;
+    }
+    80% {
+      left: 0%;
+      top: 25%;
+    }
+    90% {
+      left: 0%;
+      opacity: 0;
+    }
+
+    100% {
+      opacity: 0;
+      left: 15%;
+      top: 0%;
+    }
+  }
+
+  .back > .butt2 {
+    height: 70px;
+    top: 40%;
+    left: 0%;
+    animation: butt2 7s linear infinite alternate forwards;
+  }
+
+  @keyframes butt2 {
+    0% {
+      opacity: 0;
+      top: 80%;
+    }
+    20% {
+      opacity: 0;
+    }
+    30% {
+      top: 40%;
+    }
+    50% {
+      top: 40%;
+    }
+    60% {
+      top: 40%;
+    }
+    70% {
+      top: 40%;
+      opacity: 1;
+    }
+    80% {
+      top: 40%;
+    }
+    90% {
+      opacity: 0;
+      top: 40%;
+    }
+    100% {
+      opacity: 0;
+      top: 80%;
+    }
+  }
+
+  .discover {
+    top: 35%;
+    left: 65% !important;
+    font-size: 20px;
+    width: 20vw;
+  }
+  .with{
+    width: 70%;
+    height: 6vh;
+    font-size: 18px;
+    left:20%;
+  }
+  .now {
+    left: 65%;
+    font-size: 20px;
+    top: 130%;
+  }
+  .gray {
+    display: none;
+  }
+  .comment > h2 {
+    top: 0%;
+    left: 40%;
+    font-size: 19px;
+  }
+  .comment > h1 {
+    top: 30%;
+  }
+  .black > h1 {
+    top: 20%;
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    left: 0%;
+  }
+  .black > img {
+    top: 45%;
+    left: 45%;
+    height: 100px;
+    width:100px
+  }
+  .pics > img:nth-child(1) {
+    width: 180px;
+    height: 180px;
+    left: 0%;
+  }
+  .pics > img:nth-child(2) {
+    display: none;
+  }
+  .pics > img:nth-child(3) {
+    width: 160px;
+    height: 160px;
+    left: 32% !important;
+  }
+  .pics > img:nth-child(4) {
+    display: none;
+  }
+  .pics > img:nth-child(5) {
+    width: 160px;
+    height: 160px;
+    left: 54% !important;
+  }
+  .pics > img:nth-child(6) {
+    top: 0%;
+    left: 77% !important;
+    width: 160px;
+    height: 160px;
+  }
+  .bars > .line2 {
+    width: 80px;
+    height: 80px;
+  }
+  .bars > .line3 {
+    left: 80%;
+    top: 90%;
+  }
+  .bars {
+    height: 800px;
+  }
+  .bars > div {
+    top: 10%;
+    height: 30%;
+    width: 100%;
+  }
+  .aboutus {
+    height: 300px;
+    width: 100%;
+  }
+  .aboutus > h3 {
+    top: 25%;
+    font-size: 40px;
+   width: 100%;
+   text-align: center;
+   left:0%;
+  }
+  .aboutus > h1 {
+    top: 50%;
+    font-size: 30px;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+  }
+  .pico > .thm {
+    display: none;
+  }
+  .years {
+    height: 650px;
+  }
+  .years > div {
+    margin-left: 0px;
+    width: 100%;
+  }
+  .pico > .pici {
+    width: 37%;
+  }
+  .pico > h1 {
+    right: -80%;
+    font-size: 30px;
+    top: 35%;
+  }
+  .pico .pico1 {
+    top: 5%;
+    left: 2%;
+    margin-bottom: 5px;
+    height: 35%;
+    width: 62%;
+  }
+
+  .years > .besti > h1 {
+    display: none;
+  }
+  .years > .besti > h4 {
+    display: none;
+  }
+  .years > .besti > p {
+    display: none;
+  }
+  .pico > .iconi {
+    height: 18%;
+    width: 70%;
+  }
+  .besti > .user1 {
+    left: 10%;
+  }
+  .besti > .user2 {
+    left: 21%;
+  }
+  .besti > .user3 {
+    left: 31%;
+  }
+  .besti > .user4 {
+    left: 40%;
+  }
+  .besti > .user5 {
+    left: 50%;
+  }
+  .besti > h2 {
+    top: 90%;
+    font-size: 30px;
+    left: 10%;
+  }
+  .besti > h3 {
+    top: 95%;
+    font-size: 20px;
+
+    left: 15%;
+  }
+  .portfolio {
+    flex-wrap: wrap;
+    height: 1400px;
+    width: 100%;
+  }
+  .portfolio > .future {
+    width: 100%;
+  }
+  .future > h2 {
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+  }
+  .future > h1 {
+    top: 8%;
+    left: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 28px;
+  }
+  .future > .dude1 {
+    width: 100%;
+    left: 0%;
+  }
+  .future > .dude2 {
+    height: 23%;
+    width: 47%;
+    top: 20%;
+  }
+  .future > .dude3 {
+    width: 47%;
+    left: 53% !important;
+    top: -3%;
+  }
+  .future .view {
+    left: 43% !important;
+    height: 9vh !important;
+    width: 200px !important;
+  }
+
+  .hy > h1 {
+    width: 100%;
+    text-align: center;
+    top: 25% !important;
+    left: 0% !important;
+    font-size: 50px !important;
+  }
+  .hy > p {
+    width: 100%;
+    text-align: center;
+    top: 43% !important;
+    line-height: 1.6 !important;
+    font-size: 23px !important;
+    left: 0% !important;
+  }
+  .hy > .shape {
+    display: none;
+  }
+  .hy > i {
+    left: 45%;
+    padding: 50px;
+    width: 50px;
+  }
+  .member {
+    height: 300vh;
+  }
+  .cap {
+    display: none;
+  }
+  .member > div {
+    height: fit-content;
+    width: 100%;
+  }
+  .team1 > h4 {
+    margin-top: -25px;
+    font-size: 25px;
+  }
+  .team1 > h1 {
+    top: 28%;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+  }
+  .team1 > .team2 {
+    top: 73%;
+    left: 20%;
+  }
+  .team2 {
+    display: none;
+  }
+  .alex {
+    height: 14% !important;
+  }
+  .alex > h1 {
+    top: 85%;
+    font-size: 22px;
+  }
+  .alex > h3 {
+    top: 95%;
+    font-size: 18px;
+  }
+  .alex .alen {
+    height: 85%;
+  }
+  nav > .first {
+    display: none;
+  }
+  .back > h1 {
+    top: 40%;
+    left: 20%;    text-align: center;
+    font-size: 30px;
+    animation: h1 7s linear infinite alternate forwards;
+  }
+  .hy > h1 {
+    top: 15%;
+    left: 10%;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 25px;
+  }
+  .hy > p {
+    top: 45%;
+    left: 10%;
+    text-align: center;
+    line-height: 1.2;
+    font-size: 12px;
+
+  }
+  .hy > .shape {
+    top: 55%;
+    left: 0%;
+    height: 10px;
+    animation: shape 2s linear infinite alternate;
+  }
+  header > img {
+    left: 10%;
+    height: 60px;
+    width: 80px;
+  }
+  .hy > .shape {
+    top: 55%;
+    left: 9%;
+    height: 200px;
+    animation: shape 2s linear infinite alternate;
+  }
+  @keyframes shape {
+    0% {
+      left: 8%;
+      height: 200px;
+    }
+    100% {
+      transform: rotate(5deg);
+      left: 11%;
+      height: 220px;
+    }
+  }
+  .years > .besti > h1 {
+    top: 12%;  
+    font-size: 30px;
+    line-height: 1.2;
+  }
+  .check > h1 {
+    font-size: 20px; 
+    top: 20%;
+    left: 2%;
+  }
+  .check > .consulting {
+    top: 94%;
+    display: none;
+  }
+  .enim > .view {
+    height: 50px;
+    width: 100px;
+    top: 90%;
+  }
+  .enim > .no {
+    top: 81%;
+    left: 65%;
+    height: 50px;
+    width: 197px;
+  }
+  .saying > h1 {
+    top: 24%;
+    left: 22%;
+    font-size: 50px;
+  }
+  .ready > .view {
+    top: 40%;
+    height: 60px;
+    width: 100px;
+    left: 50%;
+  }
+  .table > .boxx2 {
+    top: 62.5%;
+    left: 78.2% !important;
+  }
+  .getin > .cat {
+    top: 40%;
+    left: 25%;
+    font-size: 16px;
+  }
+  .getin > .pic1 {
+    top: 22%;
+    left: 58%;
+  }
+  .getin > .pic2 {
+    top: 52%;
+    left: 74%;
+  }
+  .getin > .pic3 {
+    top: 52%;
+    left: 70%;
+  }
+
+  .table > .form {
+    left: 10%;
+    animation: form 4s linear infinite alternate;
+  }
+  @keyframes form {
+    0% {
+      left: 14%;
+    }
+    100% {
+      left: 20%;
+    }
+  }
+  .pics > img:nth-child(1) {
+    left: 5%;
+  }
+  .pics > img:nth-child(2) {
+    left: 10%;
+  }
+  .pics > img:nth-child(3) {
+    left: 35%;
+  }
+  .pics > img:nth-child(4) {
+    left: 30%;
+  }
+  .pics > img:nth-child(5) {
+    left: 45%;
+  }
+  .pics > img:nth-child(6) {
+    left: 40%;
+  }
+  .future > .view {
+    top: 93%;
+    left: 40%;
+    height: 60px;
+    width: 200px;
+  }
+  .getin > .privacy {
+    top: 79%;
+    left: 46%;
+    font-size: 12px;
+  } 
+
+
+
+
+  .identify > .img2 {
+       height: 100px !important;
+    left: 15%;
+  }
+  .identify > h1 {
+    font-size: 30px;
+  }
+
+  .identify > h2 {
+    font-size: 24px;
+  }
+  .bars > .line3 {
+    position: absolute;
+    left: 90%;
+    top: 90%;
+  }
+.can{
+flex-direction: column;
+}
+.can > div {
+  width: 100% !important;
+}
+.check > h1 {
+  font-size: 35px;
+  top: 15%;
+  text-align: center;
+  width: 100%;
+  left: 0% ;
+}
+.check > p {
+  font-size: 22px;
+  text-align: center;
+  width: 100%;
+  line-height: 1.3;
+  top: 55%;
+  left: 0%;
+}
+.check > .yelow {
+  top: 95%;
+  left: 0%;
+  height: 12px;
+  width: 40%;
+}
+.check > .green {
+  left: 50%;
+  top: 92%;
+}
+
+.latest {
+  height: 300px;
+}
+.latest > p {
+  top: 15%;
+  font-size: 30px;
+  left: 10%;
+}
+
+.latest > h1 {
+  top: 35%;
+  font-size: 33px;
+  left: 0%;
+  width: 100%;
+  text-align: center;
+}
+.fusce {
+  height: 1500px;
+flex-direction: column;
+}
+.fusce > div {
+  width: 100%;
+  margin-left: 30px;
+}
+.orange2 {
+  height: 500px;
+flex-direction: column;
+}
+.orange2 > div {
+  top: 0%;
+  left:35%;
+  transition: 1s;
+  height: 50%;
+  width: 100%;
+}
+.enim > h1 {
+  font-size: 25px;
+}
+.enim > p {
+  font-size: 23px;
+}
+.enim > .view {
+  width: 200px;
+}
+
+.no > i {
+  top: 45%;
+  font-size: 17px;
+}
+.no > h5 {
+  top: 45%;
+  font-size: 17px;
+}
+.no > h6 {
+  top: 45% !important;
+  transition: 1s;
+  left: 80%;
+  font-size: 14px;
+  color: #a1a1a1;
+}
+.saying{
+  height: 700px;
+}
+.saying > h1 {
+  top: 5%;
+  left: 0%;
+  width: 100%;
+  text-align: center;
+  font-size: 60px;
+}
+.saying > img {
+  top: 18%;
+  left: 15%;
+}
+.saying > h4 {
+  top: 22%;
+  font-size: 30px;
+  left: 20%;
+  line-height: 1.4;
+}
+.saying > i {
+  top: 50%;
+  font-size: 40px;
+  left: 45.5%;
+}
+.saying > .testim {
+  top: 76%;
+  left: 30%;
+}
+.saying > h2 {
+  top: 78%;
+  left: 43%;
+  font-size: 23px;
+}
+.saying > h5 {
+  top: 82%;
+  font-size: 17px;
+  left: 45%;
+}
+.saying > .white {
+  top: 93%;
+  left: 45%;
+}
+.saying > .white2 {
+  left: 50%;
+}
+.saying > .white3 {
+  left: 55%;
+}
+.map > .table {
+  left: 5%;
+  z-index: 1;
+  width: 90%;
+}
+.table > .form {
+  left: 0%;
+  animation: form 4s linear infinite alternate;
+}
+@keyframes form {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: 35%;
+  }
+}
+
+.table > h1 {
+  top: 10%;
+  left: 10%;
+  font-size:35px;
+}
+.table > textarea {
+  height: 150px;
+}
+.table > .boxx2 {
+  position: absolute;
+  left: 52.2%;
+}
+.table > .view {
+  top: 78%;
+  left: 38%;
+}
+
+
+.getin {
+  height: 1000px
+}
+.getin > .ready {
+  height: 25%
+}
+.ready > h6 {
+  top: 15%;
+  font-size: 24px;
+}
+.ready > h1 {
+  top: 35%;
+  text-align: center;
+  font-size: 35px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+.ready > .view {
+  top: 70%;
+  width: 200px;
+  left: 40% !important;
+}
+.getin > .mobile {
+  top: 28%;
+}
+.getin > p {
+  font-size: 22px;
+  top: 35%;
+  left:0;
+  width: 100%;
+text-align: center;
+}
+
+.getin > h5 {
+  font-size: 25px;
+ text-align: center;
+  top: 92%;
+  left: 0%;
+  width: 100%;
+}
+.getin > .shape4 {
+  position: absolute;
+  top: 73%;
+  left: 0%;
+}
+.getin > .cat {
+  top: 46%;
+  left: 0%;
+  font-size: 30px;
+}
+.cat > li {
+  margin-left: 50px;
+  float: left;
+}
+.getin > .homee {
+  left: 10%;
+}
+.homee > li {
+  margin-top: 30px;
+  font-size: 20px;
+}
+.getin > .bg {
+  left: 40%;
+}
+.getin > .pic1 {
+  top: 25%;
+  left:70%;
+}
+
+.getin>.pic2{
+  top:58%;
+left:70%;
+}
+.getin>.pic3{
+  top:66%;
+left:70%;
+}
+.getin>.privacy{
+  top:83%;
+  left:0%;
+  font-size: 20px;
+
+}
+}
